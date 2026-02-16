@@ -1,5 +1,4 @@
 # MATLAB Modeling of Respiratory Rate Variability for Sleep Apnea Detection
-⚁ ## Objective
 To simulate respiratory signals and detect sleep apnea using respiratory rate variability analysis in MATLAB.
 ## Methodology
 - Simulated respiratory signal (0.25 Hz sinusoidal)
@@ -25,3 +24,4 @@ To simulate respiratory signals and detect sleep apnea using respiratory rate va
 - `Sleep_Apnea_Results.png`
 ## Tools Used
 MATLAB | Signal Processing Toolbox
+
